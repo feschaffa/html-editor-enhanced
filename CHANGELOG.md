@@ -1,3 +1,9 @@
+## [2.8.0] = 2026-08-02
+* Update embedded Summernote Lite from 0.8.18 to 0.9.1
+* Update embedded jQuery from 3.5.1 to 3.7.1
+* Update dependencies (`file_picker` ^11, `flex_color_picker`, `lints`, `pointer_interceptor`)
+* Adapt to `file_picker` 11 API (`FilePicker.pickFiles` instead of `FilePicker.platform.pickFiles`)
+
 ## [2.7.1] = 2025-07-12
 * Update dependencies
 
